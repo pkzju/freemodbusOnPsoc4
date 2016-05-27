@@ -1,0 +1,48 @@
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/CortexM0/ARM_GCC_484/Debug/Cm0Start.o : C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/Cm0Start.c C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/Cm0Start.c : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/CortexM0/ARM_GCC_484/Debug/CyFlash.o : C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyFlash.c C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyFlash.c : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/CortexM0/ARM_GCC_484/Debug/CyLFClk.o : C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.c C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.c : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/CortexM0/ARM_GCC_484/Debug/CyLib.o : C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLib.c C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLib.c : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/CortexM0/ARM_GCC_484/Debug/cyPm.o : C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyPm.c C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyPm.c : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/CortexM0/ARM_GCC_484/Debug/cyfitter_cfg.o : C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/CortexM0/ARM_GCC_484/Debug/cymetadata.o : C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cymetadata.c C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cymetadata.c : 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/CortexM0/ARM_GCC_484/Debug/cyutils.o : C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyutils.c 
+
+C:/Users/Admin/Desktop/(4)SCB_using_UDB/Design01.cydsn/Generated_Source/PSoC4/cyutils.c : 
+

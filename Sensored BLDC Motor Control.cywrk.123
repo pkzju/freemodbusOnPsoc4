@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Sensored BLDC Motor Control\Sensored BLDC Motor Control\Sensored BLDC Motor Control.cydwr">
+<ExpandedNodeIds>
+<v>Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\TopDesign</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Sensored BLDC Motor Control.cydwr</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\Cymc_GFL_Math.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\Cymc_GFL_PID.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\fifo.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\getvalue.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\MF_CRC16.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\motor.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\Parser.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\protocal.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\speed.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\Transform.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\usart.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\userinterface.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\Cymc_GFL_PID.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\fifo.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\getvalue.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\main.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\MF_CRC16.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\MF_CRC8.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\motor.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\Protocal_Parser.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\speedloop.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\Transform.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\usart.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\userinterface.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\ADC</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\ADC\ADC.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\ADC\ADC.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\ADC\ADC_INT.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\ADC\ADC_PM.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\ADC_intClock</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\ADC_IRQ</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\B_LED</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\B_LED\B_LED.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\B_LED\B_LED.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\B_LED\B_LED_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\clock_1</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\clock_1\clock_1.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\clock_1\clock_1.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Clock_3</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Clock_3\Clock_3.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Clock_3\Clock_3.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Clock_4</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Clock_4\clock_4.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Clock_4\clock_4.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Clock_5</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Clock_5\Clock_5.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Clock_5\Clock_5.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\core_cm0.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\core_cm0_psoc4.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\core_cmFunc.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\core_cmInstr.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\CyBootAsmGnu.s</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\CyBootAsmIar.s</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\CyBootAsmRv.s</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\CyFlash.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\CyFlash.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\CyLib.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\CyLib.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\cypins.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\cyPm.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\cyPm.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\cytypes.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_boot\cyutils.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_lfclk</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_lfclk\CyLFClk.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cy_lfclk\CyLFClk.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\EEPROM</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\EEPROM\EEPROM.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\EEPROM\EEPROM.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\G_LED</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\G_LED\G_LED.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\G_LED\G_LED.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\G_LED\G_LED_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Hall</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Hall\Hall.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Hall\Hall.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Hall\Hall_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_ADC</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_ADC\Ia_ADC.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_ADC\Ia_ADC.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_ADC\Ia_ADC_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_VN</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_VN\Ia_VN.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_VN\Ia_VN.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_VN\Ia_VN_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_Vout</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_Vout\Ia_Vout.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_Vout\Ia_Vout.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_Vout\Ia_Vout_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_VP</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_VP\Ia_VP.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_VP\Ia_VP.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Ia_VP\Ia_VP_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\IPM_FO</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\IPM_FO\IPM_FO.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\IPM_FO\IPM_FO.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\IPM_FO\IPM_FO_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\isr_pwm</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\isr_pwm\isr_pwm.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\isr_pwm\isr_pwm.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\LED0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\LED0\LED0.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\LED0\LED0.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\LED0\LED0_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\LED1</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\LED1\LED1.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\LED1\LED1.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\LED1\LED1_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Opamp_I</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Opamp_I\Opamp_I.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Opamp_I\Opamp_I.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Opamp_I\Opamp_I_PM.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1\Pin_1.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1\Pin_1.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1\Pin_1_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1_1</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1_1\Pin_1_1.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1_1\Pin_1_1.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1_1\Pin_1_1_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1_2</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1_2\Pin_1_2.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1_2\Pin_1_2.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Pin_1_2\Pin_1_2_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_DAC</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_DAC\PWM_DAC.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_DAC\PWM_DAC.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_DAC\PWM_DAC_PM.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_Drive_A</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_Drive_A\PWM_Drive_A.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_Drive_A\PWM_Drive_A.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_Drive_A\PWM_Drive_A_PM.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_Drive_B</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_Drive_B\PWM_Drive_B.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_Drive_B\PWM_Drive_B.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_Drive_B\PWM_Drive_B_PM.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_En_Ctrl</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_En_Ctrl\PWM_En_Ctrl.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_En_Ctrl\PWM_En_Ctrl.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_En_Ctrl\PWM_En_Ctrl_PM.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_FG</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_FG\PWM_FG.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_FG\PWM_FG.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWM_FG\PWM_FG_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMAH</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMAH\PWMAH.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMAH\PWMAH.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMAH\PWMAH_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMAL</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMAL\PWMAL.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMAL\PWMAL.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMAL\PWMAL_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMBH</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMBH\PWMBH.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMBH\PWMBH.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMBH\PWMBH_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMBL</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMBL\PWMBL.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMBL\PWMBL.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMBL\PWMBL_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMDAC_test1</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMDAC_test1\PWMDAC_test1.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMDAC_test1\PWMDAC_test1.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\PWMDAC_test1\PWMDAC_test1_PM.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\R_LED</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\R_LED\R_LED.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\R_LED\R_LED.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\R_LED\R_LED_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Relay</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Relay\Relay.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Relay\Relay.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Relay\Relay_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\SW</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\SW\SW.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\SW\SW.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\SW\SW_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\test</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\test\test.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\test\test.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\test\test_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2_BOOT.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2_BOOT.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2_PINS.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2_PM.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2_PVT.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2_SPI_UART.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2_SPI_UART.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2_SPI_UART_INT.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2_SPI_UART_PVT.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2_UART.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2\UART_2_UART_BOOT.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_rx</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_rx\UART_2_rx.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_rx\UART_2_rx.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_rx\UART_2_rx_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_SCB_IRQ</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_SCB_IRQ\UART_2_SCB_IRQ.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_SCB_IRQ\UART_2_SCB_IRQ.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_SCBCLK</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_SCBCLK\UART_2_SCBCLK.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_SCBCLK\UART_2_SCBCLK.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_tx</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_tx\UART_2_tx.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_tx\UART_2_tx.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\UART_2_tx\UART_2_tx_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Vbus_ADC</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Vbus_ADC\Vbus_ADC.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Vbus_ADC\Vbus_ADC.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\Vbus_ADC\Vbus_ADC_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\VSP</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\VSP\VSP.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\VSP\VSP.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\VSP\VSP_aliases.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cydisabledsheets.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cyfitter.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cyfitter_cfg.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cyfitter_cfg.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cyfittergnu.inc</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cyfitteriar.inc</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cyfitterrv.inc</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\cymetadata.c</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Generated_Source\PSoC4\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\TopDesign</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Sensored BLDC Motor Control.cydwr</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\Cymc_GFL_Math.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\Cymc_GFL_PID.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\fifo.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\getvalue.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\MF_CRC16.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\motor.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\Parser.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\protocal.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\speed.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\Transform.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\usart.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Header Files\userinterface.h</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Source Files\Cymc_GFL_PID.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Sensored BLDC Motor Control\Sensored BLDC Motor Control\TopDesign\TopDesign_01.cymacro">
+<ExpandedNodeIds>
+<v>Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\TopDesign</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\TopDesign</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\TopDesign\TopDesign.cysch</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\TopDesign\TopDesign_01.cymacro</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Sensored BLDC Motor Control\Sensored BLDC Motor Control\Sensored BLDC Motor Control.rpt">
+<ExpandedNodeIds>
+<v>Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_INT.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_intClock.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_PM.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\B_LED.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\clock_1.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Clock_3.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\clock_4.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Clock_5.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Cm0Start.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Counter_Spd.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Counter_Spd_PM.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\CyFlash.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\CyLFClk.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\CyLib.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Cymc_GFL_PID.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\cymetadata.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\cyPm.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\cyutils.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\EEPROM.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\fifo.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\G_LED.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\getvalue.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Hall.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Ia_ADC.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Ia_VN.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Ia_Vout.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Ia_VP.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\IPM_FO.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\isr_pwm.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\isr_spd.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\LED0.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\LED1.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\main.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\MF_CRC16.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\MF_CRC8.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\motor.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Opamp_I.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Opamp_I_PM.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Pin_1.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Pin_1_1.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Pin_1_2.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Protocal_Parser.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM_DAC.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM_DAC_PM.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM_Drive_A.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM_Drive_A_PM.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM_Drive_B.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM_Drive_B_PM.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM_En_Ctrl.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM_En_Ctrl_PM.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWM_FG.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWMAH.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWMAL.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWMBH.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWMBL.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWMDAC_test1.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\PWMDAC_test1_PM.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\R_LED.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Relay.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\speedloop.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\SW.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\test.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Transform.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\UART_2.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\UART_2_BOOT.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\UART_2_PM.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\UART_2_rx.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\UART_2_SCB_IRQ.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\UART_2_SCBCLK.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\UART_2_SPI_UART.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\UART_2_SPI_UART_INT.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\UART_2_tx.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\UART_2_UART.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\UART_2_UART_BOOT.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\usart.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\userinterface.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Vbus_ADC.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\VSP.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Sensored BLDC Motor Control.elf</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Sensored BLDC Motor Control.hex</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Sensored BLDC Motor Control.map</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Sensored BLDC Motor Control.gpdsc</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Sensored BLDC Motor Control.rpt</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Sensored BLDC Motor Control_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_INT.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_intClock.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_PM.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\B_LED.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\clock_1.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Clock_3.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\clock_4.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Clock_5.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Cm0Start.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Counter_Spd.lst</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CortexM0\ARM_GCC_484\Debug\Listing Files\Counter_Spd_PM.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Sensored BLDC Motor Control">
+<ExpandedNodeIds>
+<v>Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\PSoC 4 Architecture TRM</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\PSoC 4200 Family Datasheet</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\System Reference Guides</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\System Reference Guides\cy_boot_v5_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\System Reference Guides\cy_lfclk_v1_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\ADC_SAR_SEQ_P4_v2_10</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\and_v1_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\cy_clock_v2_20</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\cy_constant_v1_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\cy_isr_v1_70</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\cy_pins_v2_10</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\cy_tff_v1_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CyControlReg_v1_80</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Em_EEPROM_v1_10</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\GlitchFilter_v2_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\OpAmp_P4_v1_10</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\PWM_v3_30</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\SCB_P4_v3_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\TCPWM_P4_v2_0</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\PSoC 4 Architecture TRM</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\PSoC 4200 Family Datasheet</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\System Reference Guides</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\System Reference Guides\cy_boot_v5_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\System Reference Guides\cy_lfclk_v1_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\ADC_SAR_SEQ_P4_v2_10</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\and_v1_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\cy_clock_v2_20</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\cy_constant_v1_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\cy_isr_v1_70</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\cy_pins_v2_10</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\cy_tff_v1_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\CyControlReg_v1_80</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\Em_EEPROM_v1_10</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\GlitchFilter_v2_0</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\OpAmp_P4_v1_10</v>
+<v>Sensored BLDC Motor Control\Sensored BLDC Motor Control\PWM_v3_30</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Sensored BLDC Motor Control.cydsn\main.c" />
+<name v=".\Sensored BLDC Motor Control.cydsn\motor.c" />
+<name v=".\Sensored BLDC Motor Control.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Sensored BLDC Motor Control.cydsn\usart.c" />
+<name v=".\Sensored BLDC Motor Control.cydsn\Sensored BLDC Motor Control.cydwr" />
+<name v=".\Sensored BLDC Motor Control.cydsn\Generated_Source\PSoC4\PWMDAC_test1.c" />
+<name v=".\Sensored BLDC Motor Control.cydsn\Transform.c" />
+</OpenDocs>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\modbus\freemodbusatpsoc4\Sensored BLDC Motor Control.cydsn\Sensored BLDC Motor Control.cyprj|2d2278c8-e517-4504-ae07-a771ef397136
+D:\PSoC\PSoC Creator\3.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|331b1625-4acd-4015-bd01-52f34b577775
+D:\PSoC\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|1334c8f6-ce3e-4f52-a8cf-5b960ff7bc60
+D:\PSoC\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1d68ed74-1de9-46e2-a87e-305f1bce06ca
+D:\PSoC\PSoC Creator\3.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|45cad5fe-e9fd-4cdd-910e-251fa6dc5729

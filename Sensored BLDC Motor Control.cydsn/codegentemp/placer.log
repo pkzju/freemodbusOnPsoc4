@@ -1,0 +1,258 @@
+#***************************************************************************
+
+#sjplacer
+
+#Version:            1.1
+
+#Build Date:         May  8 2015 09:27:37
+
+#File Generated:     May 27 2016 20:44:57
+
+#Purpose:            
+
+#Copyright (C) 2010-2011 by Softjin Technologies Pvt Ltd. All rights reserved.
+
+#***************************************************************************
+
+Executing : D:\PSoC\PSoC Creator\3.2\PSoC Creator\bin/sjplacer.exe --proj-name Sensored BLDC Motor Control --netlist-vh2 Sensored BLDC Motor Control_p.vh2 --arch-file D:\PSoC\PSoC Creator\3.2\PSoC Creator\dev/arch/p4_udb2x2a.ark --rrg-file D:\PSoC\PSoC Creator\3.2\PSoC Creator\dev/psoc4/psoc4a/route_arch-rrg.cydata --irq-file D:\PSoC\PSoC Creator\3.2\PSoC Creator\dev/psoc4/psoc4a/irqconn.cydata --dsi-conn-file D:\PSoC\PSoC Creator\3.2\PSoC Creator\dev/psoc4/psoc4a/dsiconn.cydata --pins-file pins_44-TQFP.xml --lib-file Sensored BLDC Motor Control_p.lib --sdc-file Sensored BLDC Motor Control.sdc --io-pcf Sensored BLDC Motor Control.pci --outdir .
+
+		Softjin Techologies Placer, Version 1.1
+
+Build Date : May  8 2015	08:51:53
+
+D2004: Option and Settings Summary
+=============================================================
+Netlist vh2 file          - Sensored BLDC Motor Control_p.vh2
+Architecture file         - D:\PSoC\PSoC Creator\3.2\PSoC Creator\dev/arch/p4_udb2x2a.ark
+Package                   - 
+Defparam file             - 
+SDC file                  - Sensored BLDC Motor Control.sdc
+Output directory          - .
+Timing library            - Sensored BLDC Motor Control_p.lib
+IO Placement file         - Sensored BLDC Motor Control.pci
+
+D2050: Starting reading inputs for placer
+=============================================================
+D2065: Reading netlist file : "Sensored BLDC Motor Control_p.vh2"
+D2065: Reading arch file : "D:\PSoC\PSoC Creator\3.2\PSoC Creator\dev/arch/p4_udb2x2a.ark"
+D2051: Reading of inputs for placer completed successfully
+
+D2053: Starting placement of the design
+=============================================================
+
+Phase 2
+Phase 3
+
+Design Statistics after Packing
+    Number of Combinational MCs 	:	1
+    Number of Sequential MCs    	:	1
+    Number of DPs               	:	2
+    Number of Controls          	:	1
+    Number of Status            	:	1
+    Number of SyncCells         	:	0
+    Number of count7cells       	:	0
+
+Device Utilization Summary after Packing
+    Macrocells                  :	2/32
+    UDBS                        :	2/4
+    IOs                         :	7/36
+
+
+D2088: Phase 3, elapsed time : 0.0 (sec)
+
+Phase 4
+D2088: Phase 4, elapsed time : 0.0 (sec)
+
+Phase 6
+
+######################################################################
+Placement Timing Summary
+
+The timing summary is based on estimated routing delays after
+placement. For final timing report, please carry out the timing
+analysis after routing.
+======================================================================
+
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFCLK              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFCLK              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySYSCLK             | Frequency: N/A       | Target:  48.0 MHz
+Clock: UART_2_SCBCLK        | Frequency: N/A       | Target:   0.1 MHz
+Clock: UART_2_SCBCLK(FFB)   | Frequency: N/A       | Target:   0.1 MHz
+Clock: timer_clock          | Frequency:  41.7 MHz | Target:   0.0 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+
+D2088: Phase 6, elapsed time : 0.0 (sec)
+
+Phase 7
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFCLK              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFCLK              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySYSCLK             | Frequency: N/A       | Target:  48.0 MHz
+Clock: UART_2_SCBCLK        | Frequency: N/A       | Target:   0.1 MHz
+Clock: UART_2_SCBCLK(FFB)   | Frequency: N/A       | Target:   0.1 MHz
+Clock: timer_clock          | Frequency:  41.7 MHz | Target:   0.0 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+D2088: Phase 7, elapsed time : 0.0 (sec)
+
+Final Design Statistics
+    Number of Combinational MCs 	:	1
+    Number of Sequential MCs    	:	1
+    Number of DPs               	:	2
+    Number of Controls          	:	1
+    Number of Status            	:	1
+    Number of SyncCells         	:	0
+    Number of count7cells       	:	0
+    Number of IOs       	:	7
+
+Device Utilization Summary
+    Macrocells                  :	2/32
+    IOs                         :	7/36
+
+
+
+######################################################################
+Placement Timing Summary
+
+The timing summary is based on estimated routing delays after
+placement. For final timing report, please carry out the timing
+analysis after routing.
+======================================================================
+
+
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFCLK              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFCLK              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySYSCLK             | Frequency: N/A       | Target:  48.0 MHz
+Clock: UART_2_SCBCLK        | Frequency: N/A       | Target:   0.1 MHz
+Clock: UART_2_SCBCLK(FFB)   | Frequency: N/A       | Target:   0.1 MHz
+Clock: timer_clock          | Frequency:  41.7 MHz | Target:   0.0 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+
+Phase 6
+
+######################################################################
+Placement Timing Summary
+
+The timing summary is based on estimated routing delays after
+placement. For final timing report, please carry out the timing
+analysis after routing.
+======================================================================
+
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFCLK              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFCLK              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySYSCLK             | Frequency: N/A       | Target:  48.0 MHz
+Clock: UART_2_SCBCLK        | Frequency: N/A       | Target:   0.1 MHz
+Clock: UART_2_SCBCLK(FFB)   | Frequency: N/A       | Target:   0.1 MHz
+Clock: timer_clock          | Frequency:  41.7 MHz | Target:   0.0 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+
+D2088: Phase 6, elapsed time : 0.0 (sec)
+
+Phase 7
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFCLK              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFCLK              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySYSCLK             | Frequency: N/A       | Target:  48.0 MHz
+Clock: UART_2_SCBCLK        | Frequency: N/A       | Target:   0.1 MHz
+Clock: UART_2_SCBCLK(FFB)   | Frequency: N/A       | Target:   0.1 MHz
+Clock: timer_clock          | Frequency:  41.7 MHz | Target:   0.0 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+D2088: Phase 7, elapsed time : 0.1 (sec)
+
+Final Design Statistics
+    Number of Combinational MCs 	:	1
+    Number of Sequential MCs    	:	1
+    Number of DPs               	:	2
+    Number of Controls          	:	1
+    Number of Status            	:	1
+    Number of SyncCells         	:	0
+    Number of count7cells       	:	0
+    Number of IOs       	:	7
+
+Device Utilization Summary
+    Macrocells                  :	2/32
+    IOs                         :	7/36
+
+
+
+######################################################################
+Placement Timing Summary
+
+The timing summary is based on estimated routing delays after
+placement. For final timing report, please carry out the timing
+analysis after routing.
+======================================================================
+
+
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFCLK              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFCLK              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySYSCLK             | Frequency: N/A       | Target:  48.0 MHz
+Clock: UART_2_SCBCLK        | Frequency: N/A       | Target:   0.1 MHz
+Clock: UART_2_SCBCLK(FFB)   | Frequency: N/A       | Target:   0.1 MHz
+Clock: timer_clock          | Frequency:  41.7 MHz | Target:   0.0 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+
+Phase 8
+D2088: Phase 8, elapsed time : 0.0 (sec)
+
+D2054: Placement of the design completed successfully
+
+I2076: Total run-time: 0.3 sec.
+
